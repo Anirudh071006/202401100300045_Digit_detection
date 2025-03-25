@@ -95,6 +95,6 @@ plt.title("Predicted: {}, Actual: {}".format(predicted_classes[some_index], y_te
 - Blog Post: [https://medium.com/analytics-vidhya/get-started-with-your-first-deep-learning-project-7d989cb13ae5](https://medium.com/analytics-vidhya/get-started-with-your-first-deep-learning-project-7d989cb13ae5)
 
 ## Author
-- **Your Name**
-- [Your GitHub](https://github.com/your-username)
+- Anirudh Kumar
+- [(https://github.com/Anirudh071006/202401100300045_Digit_detection)](https://github.com/your-username)
 
